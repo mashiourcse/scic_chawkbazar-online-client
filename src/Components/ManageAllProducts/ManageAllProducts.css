@@ -1,0 +1,8 @@
+.manage-product {
+    text-align: center;
+    border-bottom: 1px dotted grey;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    align-items: center;
+}

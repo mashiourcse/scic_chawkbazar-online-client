@@ -1,0 +1,15 @@
+.product{
+    border-radius: 20px;
+    margin:30px;
+    padding: 25px;
+    width: 400px;
+    background-color:white;
+    color: black;
+}
+
+.product img{
+    border-radius: 10%;
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+}
